@@ -14,4 +14,4 @@ javascript:(function () {var script=document.createElement('script');script.src=
 ```
 Then, your javascript code text in javascript block.
 
-![Image of Script](https://i.ibb.co/Z2RkYRC/CPE-Blocks-Examples-script-pic.png)
+![Image of Script](https://i.ibb.co/6wz9sN1/CPE-Blocks-Examples-script-pic-1.png)
