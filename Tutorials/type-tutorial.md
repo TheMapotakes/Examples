@@ -13,4 +13,5 @@ Rename 8 or 0 or symbol to symbols in ().
   * V: :(Hello World!)
   * X: Hello World(:)
 * () is good for ()
+* (string) is not for ()
 * And a () () for () ()!
