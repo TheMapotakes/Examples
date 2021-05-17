@@ -1,5 +1,5 @@
 # Add type in () for year 1 emoticons
-8 or 0 or symbol and - or symbol(  add type here....)
+8 or 0 or symbol or - in (  add type here....)
 
 Use Ctrl+C to copy to clipboard.
 # Example:
@@ -7,7 +7,7 @@ Use Ctrl+C to copy to clipboard.
 # Hint
 Rename 8 or 0 or symbol to symbols in ().
 # Features:
-* String method -()
+* Added string method: -
 * For 8 or 0 or symbols only (not for text)
 * Text requirements:
   * V: :(Hello World!)
