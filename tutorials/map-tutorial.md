@@ -5,7 +5,7 @@ So let's get started!
 See of an example:
 
 ![Image of Script](https://i.ibb.co/R39m5Q7/Codification-script-pic.png)
-# Features
+# Block Type and Value
 <#number> 
 **Input number**
 
@@ -16,3 +16,4 @@ See of an example:
 () **Boolean/Reporter**
 
 [] **List**
+ 
