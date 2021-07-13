@@ -13,6 +13,7 @@ Show the copy to clipboard when it says Copied!
 javascript:(function () {var script=document.createElement('script');script.src="//cdn.jsdelivr.net/npm/eruda";document.body.appendChild(script); script.onload = function () { eruda.init() } })();
 ```
 or press Ctrl Shift I to debug!
+
 Then, your javascript code text in javascript block.
 
 ![Image of Script](https://i.ibb.co/6wz9sN1/CPE-Blocks-Examples-script-pic-1.png)
